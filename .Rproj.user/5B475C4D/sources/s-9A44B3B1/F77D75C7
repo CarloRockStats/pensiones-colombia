@@ -1,0 +1,25 @@
+{
+    "id": "F77D75C7",
+    "path": "~/fce/pensiones-colombia/pensiones-colombia.R",
+    "project_path": "pensiones-colombia.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1590990378862.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "119,0",
+        "scrollLine": "88"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1591080628,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1591080628704,
+    "read_only": false,
+    "read_only_alternatives": []
+}

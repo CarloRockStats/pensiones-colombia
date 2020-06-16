@@ -1,0 +1,32 @@
+{
+    "id": "10292D94",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1591057358487.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "expression": "pensionados_2020_03_data_long",
+        "caption": "pensionados_2020_03_data_long",
+        "totalObservations": "220",
+        "displayedObservations": "220",
+        "variables": "6",
+        "cacheKey": "52E35753",
+        "object": "pensionados_2020_03_data_long",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=pensionados_2020_03_data_long&cache_key=52E35753&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1591056523,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1591057358487,
+    "read_only": false,
+    "read_only_alternatives": []
+}

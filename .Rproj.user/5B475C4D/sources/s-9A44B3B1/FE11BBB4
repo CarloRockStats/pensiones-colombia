@@ -1,0 +1,32 @@
+{
+    "id": "FE11BBB4",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1591057282935.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "expression": "pensionados_2020_03_data",
+        "caption": "pensionados_2020_03_data",
+        "totalObservations": 5,
+        "displayedObservations": 5,
+        "variables": 45,
+        "cacheKey": "FC1DADDA",
+        "object": "pensionados_2020_03_data",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=pensionados_2020_03_data&cache_key=FC1DADDA&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1591056523,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1591057282935,
+    "read_only": false,
+    "read_only_alternatives": []
+}

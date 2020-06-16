@@ -1,0 +1,757 @@
+﻿Rango Edad,Cantidad Personas,Rango salarial (SMLV),Genero,Tipo Pension
+0-19,0,Hasta 2,M,Invalidez
+20-24,11,Hasta 2,M,Invalidez
+25-29,87,Hasta 2,M,Invalidez
+30-34,294,Hasta 2,M,Invalidez
+35-39,608,Hasta 2,M,Invalidez
+40-44,"1,164",Hasta 2,M,Invalidez
+45-49,"2,369",Hasta 2,M,Invalidez
+50-54,"4,810",Hasta 2,M,Invalidez
+55-59,"7,613",Hasta 2,M,Invalidez
+60-64,"9,161",Hasta 2,M,Invalidez
+65-69,"7,414",Hasta 2,M,Invalidez
+70-74,"4,427",Hasta 2,M,Invalidez
+75-79,"2,679",Hasta 2,M,Invalidez
+80-84,"1,446",Hasta 2,M,Invalidez
+85-89,744,Hasta 2,M,Invalidez
+90-94,244,Hasta 2,M,Invalidez
+95-100,48,Hasta 2,M,Invalidez
+100-104,5,Hasta 2,M,Invalidez
+0-19,0,Hasta 2,F,Invalidez
+20-24,5,Hasta 2,F,Invalidez
+25-29,36,Hasta 2,F,Invalidez
+30-34,143,Hasta 2,F,Invalidez
+35-39,352,Hasta 2,F,Invalidez
+40-44,769,Hasta 2,F,Invalidez
+45-49,"1,599",Hasta 2,F,Invalidez
+50-54,"3,400",Hasta 2,F,Invalidez
+55-59,"5,061",Hasta 2,F,Invalidez
+60-64,"5,566",Hasta 2,F,Invalidez
+65-69,"3,770",Hasta 2,F,Invalidez
+70-74,"2,851",Hasta 2,F,Invalidez
+75-79,"1,461",Hasta 2,F,Invalidez
+80-84,820,Hasta 2,F,Invalidez
+85-89,395,Hasta 2,F,Invalidez
+90-94,115,Hasta 2,F,Invalidez
+95-100,32,Hasta 2,F,Invalidez
+100-104,2,Hasta 2,F,Invalidez
+0-19,0,Entre 2 y 4,M,Invalidez
+20-24,0,Entre 2 y 4,M,Invalidez
+25-29,1,Entre 2 y 4,M,Invalidez
+30-34,6,Entre 2 y 4,M,Invalidez
+35-39,17,Entre 2 y 4,M,Invalidez
+40-44,35,Entre 2 y 4,M,Invalidez
+45-49,71,Entre 2 y 4,M,Invalidez
+50-54,191,Entre 2 y 4,M,Invalidez
+55-59,392,Entre 2 y 4,M,Invalidez
+60-64,450,Entre 2 y 4,M,Invalidez
+65-69,140,Entre 2 y 4,M,Invalidez
+70-74,60,Entre 2 y 4,M,Invalidez
+75-79,29,Entre 2 y 4,M,Invalidez
+80-84,22,Entre 2 y 4,M,Invalidez
+85-89,8,Entre 2 y 4,M,Invalidez
+90-94,3,Entre 2 y 4,M,Invalidez
+95-100,0,Entre 2 y 4,M,Invalidez
+100-104,0,Entre 2 y 4,M,Invalidez
+0-19,0,Entre 2 y 4,F,Invalidez
+20-24,0,Entre 2 y 4,F,Invalidez
+25-29,0,Entre 2 y 4,F,Invalidez
+30-34,3,Entre 2 y 4,F,Invalidez
+35-39,8,Entre 2 y 4,F,Invalidez
+40-44,21,Entre 2 y 4,F,Invalidez
+45-49,51,Entre 2 y 4,F,Invalidez
+50-54,118,Entre 2 y 4,F,Invalidez
+55-59,132,Entre 2 y 4,F,Invalidez
+60-64,50,Entre 2 y 4,F,Invalidez
+65-69,42,Entre 2 y 4,F,Invalidez
+70-74,14,Entre 2 y 4,F,Invalidez
+75-79,6,Entre 2 y 4,F,Invalidez
+80-84,3,Entre 2 y 4,F,Invalidez
+85-89,0,Entre 2 y 4,F,Invalidez
+90-94,0,Entre 2 y 4,F,Invalidez
+95-100,0,Entre 2 y 4,F,Invalidez
+100-104,1,Entre 2 y 4,F,Invalidez
+0-19,0,Entre 4 y 7,M,Invalidez
+20-24,0,Entre 4 y 7,M,Invalidez
+25-29,0,Entre 4 y 7,M,Invalidez
+30-34,0,Entre 4 y 7,M,Invalidez
+35-39,2,Entre 4 y 7,M,Invalidez
+40-44,7,Entre 4 y 7,M,Invalidez
+45-49,20,Entre 4 y 7,M,Invalidez
+50-54,80,Entre 4 y 7,M,Invalidez
+55-59,285,Entre 4 y 7,M,Invalidez
+60-64,221,Entre 4 y 7,M,Invalidez
+65-69,37,Entre 4 y 7,M,Invalidez
+70-74,10,Entre 4 y 7,M,Invalidez
+75-79,4,Entre 4 y 7,M,Invalidez
+80-84,4,Entre 4 y 7,M,Invalidez
+85-89,1,Entre 4 y 7,M,Invalidez
+90-94,0,Entre 4 y 7,M,Invalidez
+95-100,0,Entre 4 y 7,M,Invalidez
+100-104,0,Entre 4 y 7,M,Invalidez
+0-19,0,Entre 4 y 7,F,Invalidez
+20-24,0,Entre 4 y 7,F,Invalidez
+25-29,0,Entre 4 y 7,F,Invalidez
+30-34,0,Entre 4 y 7,F,Invalidez
+35-39,0,Entre 4 y 7,F,Invalidez
+40-44,6,Entre 4 y 7,F,Invalidez
+45-49,9,Entre 4 y 7,F,Invalidez
+50-54,27,Entre 4 y 7,F,Invalidez
+55-59,33,Entre 4 y 7,F,Invalidez
+60-64,10,Entre 4 y 7,F,Invalidez
+65-69,4,Entre 4 y 7,F,Invalidez
+70-74,2,Entre 4 y 7,F,Invalidez
+75-79,1,Entre 4 y 7,F,Invalidez
+80-84,0,Entre 4 y 7,F,Invalidez
+85-89,0,Entre 4 y 7,F,Invalidez
+90-94,0,Entre 4 y 7,F,Invalidez
+95-100,0,Entre 4 y 7,F,Invalidez
+100-104,0,Entre 4 y 7,F,Invalidez
+0-19,0,Entre 7 y 10,M,Invalidez
+20-24,0,Entre 7 y 10,M,Invalidez
+25-29,0,Entre 7 y 10,M,Invalidez
+30-34,0,Entre 7 y 10,M,Invalidez
+35-39,0,Entre 7 y 10,M,Invalidez
+40-44,0,Entre 7 y 10,M,Invalidez
+45-49,0,Entre 7 y 10,M,Invalidez
+50-54,12,Entre 7 y 10,M,Invalidez
+55-59,28,Entre 7 y 10,M,Invalidez
+60-64,18,Entre 7 y 10,M,Invalidez
+65-69,6,Entre 7 y 10,M,Invalidez
+70-74,5,Entre 7 y 10,M,Invalidez
+75-79,0,Entre 7 y 10,M,Invalidez
+80-84,0,Entre 7 y 10,M,Invalidez
+85-89,0,Entre 7 y 10,M,Invalidez
+90-94,0,Entre 7 y 10,M,Invalidez
+95-100,0,Entre 7 y 10,M,Invalidez
+100-104,0,Entre 7 y 10,M,Invalidez
+0-19,0,Entre 7 y 10,F,Invalidez
+20-24,0,Entre 7 y 10,F,Invalidez
+25-29,0,Entre 7 y 10,F,Invalidez
+30-34,0,Entre 7 y 10,F,Invalidez
+35-39,0,Entre 7 y 10,F,Invalidez
+40-44,0,Entre 7 y 10,F,Invalidez
+45-49,2,Entre 7 y 10,F,Invalidez
+50-54,13,Entre 7 y 10,F,Invalidez
+55-59,6,Entre 7 y 10,F,Invalidez
+60-64,3,Entre 7 y 10,F,Invalidez
+65-69,2,Entre 7 y 10,F,Invalidez
+70-74,0,Entre 7 y 10,F,Invalidez
+75-79,0,Entre 7 y 10,F,Invalidez
+80-84,0,Entre 7 y 10,F,Invalidez
+85-89,0,Entre 7 y 10,F,Invalidez
+90-94,0,Entre 7 y 10,F,Invalidez
+95-100,0,Entre 7 y 10,F,Invalidez
+100-104,0,Entre 7 y 10,F,Invalidez
+0-19,0,Entre 10 y 13,M,Invalidez
+20-24,0,Entre 10 y 13,M,Invalidez
+25-29,0,Entre 10 y 13,M,Invalidez
+30-34,0,Entre 10 y 13,M,Invalidez
+35-39,0,Entre 10 y 13,M,Invalidez
+40-44,0,Entre 10 y 13,M,Invalidez
+45-49,1,Entre 10 y 13,M,Invalidez
+50-54,2,Entre 10 y 13,M,Invalidez
+55-59,8,Entre 10 y 13,M,Invalidez
+60-64,12,Entre 10 y 13,M,Invalidez
+65-69,1,Entre 10 y 13,M,Invalidez
+70-74,0,Entre 10 y 13,M,Invalidez
+75-79,0,Entre 10 y 13,M,Invalidez
+80-84,1,Entre 10 y 13,M,Invalidez
+85-89,0,Entre 10 y 13,M,Invalidez
+90-94,0,Entre 10 y 13,M,Invalidez
+95-100,0,Entre 10 y 13,M,Invalidez
+100-104,0,Entre 10 y 13,M,Invalidez
+0-19,0,Entre 10 y 13,F,Invalidez
+20-24,0,Entre 10 y 13,F,Invalidez
+25-29,0,Entre 10 y 13,F,Invalidez
+30-34,0,Entre 10 y 13,F,Invalidez
+35-39,0,Entre 10 y 13,F,Invalidez
+40-44,0,Entre 10 y 13,F,Invalidez
+45-49,1,Entre 10 y 13,F,Invalidez
+50-54,0,Entre 10 y 13,F,Invalidez
+55-59,1,Entre 10 y 13,F,Invalidez
+60-64,0,Entre 10 y 13,F,Invalidez
+65-69,0,Entre 10 y 13,F,Invalidez
+70-74,0,Entre 10 y 13,F,Invalidez
+75-79,0,Entre 10 y 13,F,Invalidez
+80-84,0,Entre 10 y 13,F,Invalidez
+85-89,0,Entre 10 y 13,F,Invalidez
+90-94,0,Entre 10 y 13,F,Invalidez
+95-100,0,Entre 10 y 13,F,Invalidez
+100-104,0,Entre 10 y 13,F,Invalidez
+0-19,0,Entre 13 y 16,M,Invalidez
+20-24,0,Entre 13 y 16,M,Invalidez
+25-29,0,Entre 13 y 16,M,Invalidez
+30-34,0,Entre 13 y 16,M,Invalidez
+35-39,0,Entre 13 y 16,M,Invalidez
+40-44,0,Entre 13 y 16,M,Invalidez
+45-49,0,Entre 13 y 16,M,Invalidez
+50-54,1,Entre 13 y 16,M,Invalidez
+55-59,2,Entre 13 y 16,M,Invalidez
+60-64,2,Entre 13 y 16,M,Invalidez
+65-69,1,Entre 13 y 16,M,Invalidez
+70-74,0,Entre 13 y 16,M,Invalidez
+75-79,0,Entre 13 y 16,M,Invalidez
+80-84,0,Entre 13 y 16,M,Invalidez
+85-89,0,Entre 13 y 16,M,Invalidez
+90-94,0,Entre 13 y 16,M,Invalidez
+95-100,0,Entre 13 y 16,M,Invalidez
+100-104,0,Entre 13 y 16,M,Invalidez
+0-19,0,Entre 13 y 16,F,Invalidez
+20-24,0,Entre 13 y 16,F,Invalidez
+25-29,0,Entre 13 y 16,F,Invalidez
+30-34,0,Entre 13 y 16,F,Invalidez
+35-39,0,Entre 13 y 16,F,Invalidez
+40-44,0,Entre 13 y 16,F,Invalidez
+45-49,0,Entre 13 y 16,F,Invalidez
+50-54,0,Entre 13 y 16,F,Invalidez
+55-59,0,Entre 13 y 16,F,Invalidez
+60-64,0,Entre 13 y 16,F,Invalidez
+65-69,0,Entre 13 y 16,F,Invalidez
+70-74,0,Entre 13 y 16,F,Invalidez
+75-79,0,Entre 13 y 16,F,Invalidez
+80-84,0,Entre 13 y 16,F,Invalidez
+85-89,0,Entre 13 y 16,F,Invalidez
+90-94,0,Entre 13 y 16,F,Invalidez
+95-100,0,Entre 13 y 16,F,Invalidez
+100-104,0,Entre 13 y 16,F,Invalidez
+0-19,0,Mayor a 16,M,Invalidez
+20-24,0,Mayor a 16,M,Invalidez
+25-29,0,Mayor a 16,M,Invalidez
+30-34,0,Mayor a 16,M,Invalidez
+35-39,0,Mayor a 16,M,Invalidez
+40-44,0,Mayor a 16,M,Invalidez
+45-49,0,Mayor a 16,M,Invalidez
+50-54,1,Mayor a 16,M,Invalidez
+55-59,1,Mayor a 16,M,Invalidez
+60-64,1,Mayor a 16,M,Invalidez
+65-69,0,Mayor a 16,M,Invalidez
+70-74,0,Mayor a 16,M,Invalidez
+75-79,0,Mayor a 16,M,Invalidez
+80-84,0,Mayor a 16,M,Invalidez
+85-89,0,Mayor a 16,M,Invalidez
+90-94,0,Mayor a 16,M,Invalidez
+95-100,0,Mayor a 16,M,Invalidez
+100-104,0,Mayor a 16,M,Invalidez
+0-19,0,Mayor a 16,F,Invalidez
+20-24,0,Mayor a 16,F,Invalidez
+25-29,0,Mayor a 16,F,Invalidez
+30-34,0,Mayor a 16,F,Invalidez
+35-39,0,Mayor a 16,F,Invalidez
+40-44,0,Mayor a 16,F,Invalidez
+45-49,0,Mayor a 16,F,Invalidez
+50-54,0,Mayor a 16,F,Invalidez
+55-59,0,Mayor a 16,F,Invalidez
+60-64,0,Mayor a 16,F,Invalidez
+65-69,0,Mayor a 16,F,Invalidez
+70-74,0,Mayor a 16,F,Invalidez
+75-79,0,Mayor a 16,F,Invalidez
+80-84,0,Mayor a 16,F,Invalidez
+85-89,0,Mayor a 16,F,Invalidez
+90-94,0,Mayor a 16,F,Invalidez
+95-100,0,Mayor a 16,F,Invalidez
+100-104,0,Mayor a 16,F,Invalidez
+0-19,0,Hasta 2,M,Vejez
+20-24,0,Hasta 2,M,Vejez
+25-29,0,Hasta 2,M,Vejez
+30-34,0,Hasta 2,M,Vejez
+35-39,0,Hasta 2,M,Vejez
+40-44,204,Hasta 2,M,Vejez
+45-49,565,Hasta 2,M,Vejez
+50-54,572,Hasta 2,M,Vejez
+55-59,775,Hasta 2,M,Vejez
+60-64,"45,732",Hasta 2,M,Vejez
+65-69,"99,717",Hasta 2,M,Vejez
+70-74,"90,635",Hasta 2,M,Vejez
+75-79,"57,701",Hasta 2,M,Vejez
+80-84,"33,678",Hasta 2,M,Vejez
+85-89,"19,090",Hasta 2,M,Vejez
+90-94,"7,923",Hasta 2,M,Vejez
+95-100,"1,778",Hasta 2,M,Vejez
+100-104,281,Hasta 2,M,Vejez
+0-19,0,Hasta 2,F,Vejez
+20-24,0,Hasta 2,F,Vejez
+25-29,0,Hasta 2,F,Vejez
+30-34,0,Hasta 2,F,Vejez
+35-39,1,Hasta 2,F,Vejez
+40-44,23,Hasta 2,F,Vejez
+45-49,92,Hasta 2,F,Vejez
+50-54,267,Hasta 2,F,Vejez
+55-59,"28,708",Hasta 2,F,Vejez
+60-64,"88,847",Hasta 2,F,Vejez
+65-69,"98,094",Hasta 2,F,Vejez
+70-74,"66,225",Hasta 2,F,Vejez
+75-79,"37,269",Hasta 2,F,Vejez
+80-84,"22,317",Hasta 2,F,Vejez
+85-89,"11,485",Hasta 2,F,Vejez
+90-94,"4,482",Hasta 2,F,Vejez
+95-100,"1,057",Hasta 2,F,Vejez
+100-104,212,Hasta 2,F,Vejez
+0-19,0,Entre 2 y 4,M,Vejez
+20-24,0,Entre 2 y 4,M,Vejez
+25-29,0,Entre 2 y 4,M,Vejez
+30-34,0,Entre 2 y 4,M,Vejez
+35-39,1,Entre 2 y 4,M,Vejez
+40-44,151,Entre 2 y 4,M,Vejez
+45-49,251,Entre 2 y 4,M,Vejez
+50-54,339,Entre 2 y 4,M,Vejez
+55-59,358,Entre 2 y 4,M,Vejez
+60-64,"13,348",Entre 2 y 4,M,Vejez
+65-69,"32,445",Entre 2 y 4,M,Vejez
+70-74,"25,168",Entre 2 y 4,M,Vejez
+75-79,"15,839",Entre 2 y 4,M,Vejez
+80-84,"9,306",Entre 2 y 4,M,Vejez
+85-89,"2,919",Entre 2 y 4,M,Vejez
+90-94,698,Entre 2 y 4,M,Vejez
+95-100,82,Entre 2 y 4,M,Vejez
+100-104,15,Entre 2 y 4,M,Vejez
+0-19,0,Entre 2 y 4,F,Vejez
+20-24,0,Entre 2 y 4,F,Vejez
+25-29,0,Entre 2 y 4,F,Vejez
+30-34,0,Entre 2 y 4,F,Vejez
+35-39,1,Entre 2 y 4,F,Vejez
+40-44,16,Entre 2 y 4,F,Vejez
+45-49,26,Entre 2 y 4,F,Vejez
+50-54,56,Entre 2 y 4,F,Vejez
+55-59,"6,368",Entre 2 y 4,F,Vejez
+60-64,"23,862",Entre 2 y 4,F,Vejez
+65-69,"21,673",Entre 2 y 4,F,Vejez
+70-74,"13,431",Entre 2 y 4,F,Vejez
+75-79,"6,584",Entre 2 y 4,F,Vejez
+80-84,"2,066",Entre 2 y 4,F,Vejez
+85-89,585,Entre 2 y 4,F,Vejez
+90-94,116,Entre 2 y 4,F,Vejez
+95-100,12,Entre 2 y 4,F,Vejez
+100-104,3,Entre 2 y 4,F,Vejez
+0-19,0,Entre 4 y 7,M,Vejez
+20-24,0,Entre 4 y 7,M,Vejez
+25-29,0,Entre 4 y 7,M,Vejez
+30-34,0,Entre 4 y 7,M,Vejez
+35-39,0,Entre 4 y 7,M,Vejez
+40-44,1,Entre 4 y 7,M,Vejez
+45-49,5,Entre 4 y 7,M,Vejez
+50-54,22,Entre 4 y 7,M,Vejez
+55-59,110,Entre 4 y 7,M,Vejez
+60-64,"5,663",Entre 4 y 7,M,Vejez
+65-69,"13,535",Entre 4 y 7,M,Vejez
+70-74,"10,324",Entre 4 y 7,M,Vejez
+75-79,"6,258",Entre 4 y 7,M,Vejez
+80-84,"3,608",Entre 4 y 7,M,Vejez
+85-89,"1,053",Entre 4 y 7,M,Vejez
+90-94,157,Entre 4 y 7,M,Vejez
+95-100,21,Entre 4 y 7,M,Vejez
+100-104,3,Entre 4 y 7,M,Vejez
+0-19,0,Entre 4 y 7,F,Vejez
+20-24,0,Entre 4 y 7,F,Vejez
+25-29,0,Entre 4 y 7,F,Vejez
+30-34,0,Entre 4 y 7,F,Vejez
+35-39,0,Entre 4 y 7,F,Vejez
+40-44,2,Entre 4 y 7,F,Vejez
+45-49,2,Entre 4 y 7,F,Vejez
+50-54,14,Entre 4 y 7,F,Vejez
+55-59,"2,471",Entre 4 y 7,F,Vejez
+60-64,"8,576",Entre 4 y 7,F,Vejez
+65-69,"7,231",Entre 4 y 7,F,Vejez
+70-74,"3,761",Entre 4 y 7,F,Vejez
+75-79,"1,776",Entre 4 y 7,F,Vejez
+80-84,507,Entre 4 y 7,F,Vejez
+85-89,97,Entre 4 y 7,F,Vejez
+90-94,10,Entre 4 y 7,F,Vejez
+95-100,5,Entre 4 y 7,F,Vejez
+100-104,0,Entre 4 y 7,F,Vejez
+0-19,0,Entre 7 y 10,M,Vejez
+20-24,0,Entre 7 y 10,M,Vejez
+25-29,0,Entre 7 y 10,M,Vejez
+30-34,0,Entre 7 y 10,M,Vejez
+35-39,0,Entre 7 y 10,M,Vejez
+40-44,0,Entre 7 y 10,M,Vejez
+45-49,1,Entre 7 y 10,M,Vejez
+50-54,8,Entre 7 y 10,M,Vejez
+55-59,26,Entre 7 y 10,M,Vejez
+60-64,"1,936",Entre 7 y 10,M,Vejez
+65-69,"5,066",Entre 7 y 10,M,Vejez
+70-74,"3,514",Entre 7 y 10,M,Vejez
+75-79,"2,078",Entre 7 y 10,M,Vejez
+80-84,"1,147",Entre 7 y 10,M,Vejez
+85-89,279,Entre 7 y 10,M,Vejez
+90-94,42,Entre 7 y 10,M,Vejez
+95-100,5,Entre 7 y 10,M,Vejez
+100-104,0,Entre 7 y 10,M,Vejez
+0-19,0,Entre 7 y 10,F,Vejez
+20-24,0,Entre 7 y 10,F,Vejez
+25-29,0,Entre 7 y 10,F,Vejez
+30-34,0,Entre 7 y 10,F,Vejez
+35-39,0,Entre 7 y 10,F,Vejez
+40-44,0,Entre 7 y 10,F,Vejez
+45-49,0,Entre 7 y 10,F,Vejez
+50-54,5,Entre 7 y 10,F,Vejez
+55-59,788,Entre 7 y 10,F,Vejez
+60-64,"2,714",Entre 7 y 10,F,Vejez
+65-69,"2,000",Entre 7 y 10,F,Vejez
+70-74,"1,034",Entre 7 y 10,F,Vejez
+75-79,431,Entre 7 y 10,F,Vejez
+80-84,81,Entre 7 y 10,F,Vejez
+85-89,12,Entre 7 y 10,F,Vejez
+90-94,3,Entre 7 y 10,F,Vejez
+95-100,0,Entre 7 y 10,F,Vejez
+100-104,1,Entre 7 y 10,F,Vejez
+0-19,0,Entre 10 y 13,M,Vejez
+20-24,0,Entre 10 y 13,M,Vejez
+25-29,0,Entre 10 y 13,M,Vejez
+30-34,0,Entre 10 y 13,M,Vejez
+35-39,0,Entre 10 y 13,M,Vejez
+40-44,0,Entre 10 y 13,M,Vejez
+45-49,0,Entre 10 y 13,M,Vejez
+50-54,1,Entre 10 y 13,M,Vejez
+55-59,9,Entre 10 y 13,M,Vejez
+60-64,831,Entre 10 y 13,M,Vejez
+65-69,"2,219",Entre 10 y 13,M,Vejez
+70-74,"1,698",Entre 10 y 13,M,Vejez
+75-79,"1,028",Entre 10 y 13,M,Vejez
+80-84,659,Entre 10 y 13,M,Vejez
+85-89,109,Entre 10 y 13,M,Vejez
+90-94,19,Entre 10 y 13,M,Vejez
+95-100,1,Entre 10 y 13,M,Vejez
+100-104,1,Entre 10 y 13,M,Vejez
+0-19,0,Entre 10 y 13,F,Vejez
+20-24,0,Entre 10 y 13,F,Vejez
+25-29,0,Entre 10 y 13,F,Vejez
+30-34,0,Entre 10 y 13,F,Vejez
+35-39,0,Entre 10 y 13,F,Vejez
+40-44,0,Entre 10 y 13,F,Vejez
+45-49,0,Entre 10 y 13,F,Vejez
+50-54,0,Entre 10 y 13,F,Vejez
+55-59,289,Entre 10 y 13,F,Vejez
+60-64,886,Entre 10 y 13,F,Vejez
+65-69,681,Entre 10 y 13,F,Vejez
+70-74,345,Entre 10 y 13,F,Vejez
+75-79,164,Entre 10 y 13,F,Vejez
+80-84,34,Entre 10 y 13,F,Vejez
+85-89,5,Entre 10 y 13,F,Vejez
+90-94,0,Entre 10 y 13,F,Vejez
+95-100,0,Entre 10 y 13,F,Vejez
+100-104,0,Entre 10 y 13,F,Vejez
+0-19,0,Entre 13 y 16,M,Vejez
+20-24,0,Entre 13 y 16,M,Vejez
+25-29,0,Entre 13 y 16,M,Vejez
+30-34,0,Entre 13 y 16,M,Vejez
+35-39,0,Entre 13 y 16,M,Vejez
+40-44,0,Entre 13 y 16,M,Vejez
+45-49,0,Entre 13 y 16,M,Vejez
+50-54,0,Entre 13 y 16,M,Vejez
+55-59,0,Entre 13 y 16,M,Vejez
+60-64,518,Entre 13 y 16,M,Vejez
+65-69,"1,195",Entre 13 y 16,M,Vejez
+70-74,936,Entre 13 y 16,M,Vejez
+75-79,425,Entre 13 y 16,M,Vejez
+80-84,256,Entre 13 y 16,M,Vejez
+85-89,17,Entre 13 y 16,M,Vejez
+90-94,0,Entre 13 y 16,M,Vejez
+95-100,1,Entre 13 y 16,M,Vejez
+100-104,0,Entre 13 y 16,M,Vejez
+0-19,0,Entre 13 y 16,F,Vejez
+20-24,0,Entre 13 y 16,F,Vejez
+25-29,0,Entre 13 y 16,F,Vejez
+30-34,0,Entre 13 y 16,F,Vejez
+35-39,0,Entre 13 y 16,F,Vejez
+40-44,0,Entre 13 y 16,F,Vejez
+45-49,0,Entre 13 y 16,F,Vejez
+50-54,0,Entre 13 y 16,F,Vejez
+55-59,122,Entre 13 y 16,F,Vejez
+60-64,411,Entre 13 y 16,F,Vejez
+65-69,288,Entre 13 y 16,F,Vejez
+70-74,95,Entre 13 y 16,F,Vejez
+75-79,32,Entre 13 y 16,F,Vejez
+80-84,1,Entre 13 y 16,F,Vejez
+85-89,1,Entre 13 y 16,F,Vejez
+90-94,0,Entre 13 y 16,F,Vejez
+95-100,0,Entre 13 y 16,F,Vejez
+100-104,0,Entre 13 y 16,F,Vejez
+0-19,0,Mayor a 16,M,Vejez
+20-24,0,Mayor a 16,M,Vejez
+25-29,0,Mayor a 16,M,Vejez
+30-34,0,Mayor a 16,M,Vejez
+35-39,0,Mayor a 16,M,Vejez
+40-44,0,Mayor a 16,M,Vejez
+45-49,0,Mayor a 16,M,Vejez
+50-54,0,Mayor a 16,M,Vejez
+55-59,2,Mayor a 16,M,Vejez
+60-64,151,Mayor a 16,M,Vejez
+65-69,"1,078",Mayor a 16,M,Vejez
+70-74,396,Mayor a 16,M,Vejez
+75-79,57,Mayor a 16,M,Vejez
+80-84,15,Mayor a 16,M,Vejez
+85-89,4,Mayor a 16,M,Vejez
+90-94,0,Mayor a 16,M,Vejez
+95-100,0,Mayor a 16,M,Vejez
+100-104,0,Mayor a 16,M,Vejez
+0-19,0,Mayor a 16,F,Vejez
+20-24,0,Mayor a 16,F,Vejez
+25-29,0,Mayor a 16,F,Vejez
+30-34,0,Mayor a 16,F,Vejez
+35-39,0,Mayor a 16,F,Vejez
+40-44,0,Mayor a 16,F,Vejez
+45-49,0,Mayor a 16,F,Vejez
+50-54,0,Mayor a 16,F,Vejez
+55-59,7,Mayor a 16,F,Vejez
+60-64,324,Mayor a 16,F,Vejez
+65-69,180,Mayor a 16,F,Vejez
+70-74,36,Mayor a 16,F,Vejez
+75-79,14,Mayor a 16,F,Vejez
+80-84,1,Mayor a 16,F,Vejez
+85-89,0,Mayor a 16,F,Vejez
+90-94,0,Mayor a 16,F,Vejez
+95-100,1,Mayor a 16,F,Vejez
+100-104,0,Mayor a 16,F,Vejez
+0-19,"1,750",Hasta 2,M,Sobrevivientes
+20-24,"1,179",Hasta 2,M,Sobrevivientes
+25-29,218,Hasta 2,M,Sobrevivientes
+30-34,234,Hasta 2,M,Sobrevivientes
+35-39,336,Hasta 2,M,Sobrevivientes
+40-44,569,Hasta 2,M,Sobrevivientes
+45-49,"1,100",Hasta 2,M,Sobrevivientes
+50-54,"2,181",Hasta 2,M,Sobrevivientes
+55-59,"3,355",Hasta 2,M,Sobrevivientes
+60-64,"4,321",Hasta 2,M,Sobrevivientes
+65-69,"4,744",Hasta 2,M,Sobrevivientes
+70-74,"4,257",Hasta 2,M,Sobrevivientes
+75-79,"3,433",Hasta 2,M,Sobrevivientes
+80-84,"2,537",Hasta 2,M,Sobrevivientes
+85-89,"1,503",Hasta 2,M,Sobrevivientes
+90-94,735,Hasta 2,M,Sobrevivientes
+95-100,194,Hasta 2,M,Sobrevivientes
+100-104,52,Hasta 2,M,Sobrevivientes
+0-19,"1,585",Hasta 2,F,Sobrevivientes
+20-24,"1,262",Hasta 2,F,Sobrevivientes
+25-29,478,Hasta 2,F,Sobrevivientes
+30-34,942,Hasta 2,F,Sobrevivientes
+35-39,"2,185",Hasta 2,F,Sobrevivientes
+40-44,"4,407",Hasta 2,F,Sobrevivientes
+45-49,"8,333",Hasta 2,F,Sobrevivientes
+50-54,"14,878",Hasta 2,F,Sobrevivientes
+55-59,"22,760",Hasta 2,F,Sobrevivientes
+60-64,"29,597",Hasta 2,F,Sobrevivientes
+65-69,"33,391",Hasta 2,F,Sobrevivientes
+70-74,"33,462",Hasta 2,F,Sobrevivientes
+75-79,"30,899",Hasta 2,F,Sobrevivientes
+80-84,"27,470",Hasta 2,F,Sobrevivientes
+85-89,"18,983",Hasta 2,F,Sobrevivientes
+90-94,"9,335",Hasta 2,F,Sobrevivientes
+95-100,"2,595",Hasta 2,F,Sobrevivientes
+100-104,625,Hasta 2,F,Sobrevivientes
+0-19,145,Entre 2 y 4,M,Sobrevivientes
+20-24,104,Entre 2 y 4,M,Sobrevivientes
+25-29,42,Entre 2 y 4,M,Sobrevivientes
+30-34,21,Entre 2 y 4,M,Sobrevivientes
+35-39,30,Entre 2 y 4,M,Sobrevivientes
+40-44,42,Entre 2 y 4,M,Sobrevivientes
+45-49,61,Entre 2 y 4,M,Sobrevivientes
+50-54,124,Entre 2 y 4,M,Sobrevivientes
+55-59,223,Entre 2 y 4,M,Sobrevivientes
+60-64,348,Entre 2 y 4,M,Sobrevivientes
+65-69,467,Entre 2 y 4,M,Sobrevivientes
+70-74,404,Entre 2 y 4,M,Sobrevivientes
+75-79,302,Entre 2 y 4,M,Sobrevivientes
+80-84,182,Entre 2 y 4,M,Sobrevivientes
+85-89,74,Entre 2 y 4,M,Sobrevivientes
+90-94,25,Entre 2 y 4,M,Sobrevivientes
+95-100,5,Entre 2 y 4,M,Sobrevivientes
+100-104,2,Entre 2 y 4,M,Sobrevivientes
+0-19,132,Entre 2 y 4,F,Sobrevivientes
+20-24,112,Entre 2 y 4,F,Sobrevivientes
+25-29,46,Entre 2 y 4,F,Sobrevivientes
+30-34,63,Entre 2 y 4,F,Sobrevivientes
+35-39,120,Entre 2 y 4,F,Sobrevivientes
+40-44,295,Entre 2 y 4,F,Sobrevivientes
+45-49,528,Entre 2 y 4,F,Sobrevivientes
+50-54,"1,101",Entre 2 y 4,F,Sobrevivientes
+55-59,"2,033",Entre 2 y 4,F,Sobrevivientes
+60-64,"3,256",Entre 2 y 4,F,Sobrevivientes
+65-69,"4,057",Entre 2 y 4,F,Sobrevivientes
+70-74,"4,190",Entre 2 y 4,F,Sobrevivientes
+75-79,"3,759",Entre 2 y 4,F,Sobrevivientes
+80-84,"2,460",Entre 2 y 4,F,Sobrevivientes
+85-89,"1,183",Entre 2 y 4,F,Sobrevivientes
+90-94,421,Entre 2 y 4,F,Sobrevivientes
+95-100,98,Entre 2 y 4,F,Sobrevivientes
+100-104,17,Entre 2 y 4,F,Sobrevivientes
+0-19,50,Entre 4 y 7,M,Sobrevivientes
+20-24,32,Entre 4 y 7,M,Sobrevivientes
+25-29,19,Entre 4 y 7,M,Sobrevivientes
+30-34,9,Entre 4 y 7,M,Sobrevivientes
+35-39,7,Entre 4 y 7,M,Sobrevivientes
+40-44,7,Entre 4 y 7,M,Sobrevivientes
+45-49,16,Entre 4 y 7,M,Sobrevivientes
+50-54,43,Entre 4 y 7,M,Sobrevivientes
+55-59,59,Entre 4 y 7,M,Sobrevivientes
+60-64,74,Entre 4 y 7,M,Sobrevivientes
+65-69,116,Entre 4 y 7,M,Sobrevivientes
+70-74,109,Entre 4 y 7,M,Sobrevivientes
+75-79,86,Entre 4 y 7,M,Sobrevivientes
+80-84,56,Entre 4 y 7,M,Sobrevivientes
+85-89,26,Entre 4 y 7,M,Sobrevivientes
+90-94,5,Entre 4 y 7,M,Sobrevivientes
+95-100,4,Entre 4 y 7,M,Sobrevivientes
+100-104,0,Entre 4 y 7,M,Sobrevivientes
+0-19,33,Entre 4 y 7,F,Sobrevivientes
+20-24,31,Entre 4 y 7,F,Sobrevivientes
+25-29,8,Entre 4 y 7,F,Sobrevivientes
+30-34,19,Entre 4 y 7,F,Sobrevivientes
+35-39,39,Entre 4 y 7,F,Sobrevivientes
+40-44,81,Entre 4 y 7,F,Sobrevivientes
+45-49,180,Entre 4 y 7,F,Sobrevivientes
+50-54,326,Entre 4 y 7,F,Sobrevivientes
+55-59,635,Entre 4 y 7,F,Sobrevivientes
+60-64,971,Entre 4 y 7,F,Sobrevivientes
+65-69,"1,319",Entre 4 y 7,F,Sobrevivientes
+70-74,"1,268",Entre 4 y 7,F,Sobrevivientes
+75-79,"1,153",Entre 4 y 7,F,Sobrevivientes
+80-84,691,Entre 4 y 7,F,Sobrevivientes
+85-89,317,Entre 4 y 7,F,Sobrevivientes
+90-94,107,Entre 4 y 7,F,Sobrevivientes
+95-100,31,Entre 4 y 7,F,Sobrevivientes
+100-104,1,Entre 4 y 7,F,Sobrevivientes
+0-19,12,Entre 7 y 10,M,Sobrevivientes
+20-24,14,Entre 7 y 10,M,Sobrevivientes
+25-29,5,Entre 7 y 10,M,Sobrevivientes
+30-34,2,Entre 7 y 10,M,Sobrevivientes
+35-39,1,Entre 7 y 10,M,Sobrevivientes
+40-44,2,Entre 7 y 10,M,Sobrevivientes
+45-49,2,Entre 7 y 10,M,Sobrevivientes
+50-54,8,Entre 7 y 10,M,Sobrevivientes
+55-59,15,Entre 7 y 10,M,Sobrevivientes
+60-64,15,Entre 7 y 10,M,Sobrevivientes
+65-69,18,Entre 7 y 10,M,Sobrevivientes
+70-74,19,Entre 7 y 10,M,Sobrevivientes
+75-79,21,Entre 7 y 10,M,Sobrevivientes
+80-84,8,Entre 7 y 10,M,Sobrevivientes
+85-89,9,Entre 7 y 10,M,Sobrevivientes
+90-94,1,Entre 7 y 10,M,Sobrevivientes
+95-100,0,Entre 7 y 10,M,Sobrevivientes
+100-104,0,Entre 7 y 10,M,Sobrevivientes
+0-19,13,Entre 7 y 10,F,Sobrevivientes
+20-24,10,Entre 7 y 10,F,Sobrevivientes
+25-29,3,Entre 7 y 10,F,Sobrevivientes
+30-34,2,Entre 7 y 10,F,Sobrevivientes
+35-39,5,Entre 7 y 10,F,Sobrevivientes
+40-44,16,Entre 7 y 10,F,Sobrevivientes
+45-49,45,Entre 7 y 10,F,Sobrevivientes
+50-54,56,Entre 7 y 10,F,Sobrevivientes
+55-59,146,Entre 7 y 10,F,Sobrevivientes
+60-64,221,Entre 7 y 10,F,Sobrevivientes
+65-69,333,Entre 7 y 10,F,Sobrevivientes
+70-74,326,Entre 7 y 10,F,Sobrevivientes
+75-79,259,Entre 7 y 10,F,Sobrevivientes
+80-84,195,Entre 7 y 10,F,Sobrevivientes
+85-89,79,Entre 7 y 10,F,Sobrevivientes
+90-94,20,Entre 7 y 10,F,Sobrevivientes
+95-100,5,Entre 7 y 10,F,Sobrevivientes
+100-104,1,Entre 7 y 10,F,Sobrevivientes
+0-19,2,Entre 10 y 13,M,Sobrevivientes
+20-24,5,Entre 10 y 13,M,Sobrevivientes
+25-29,1,Entre 10 y 13,M,Sobrevivientes
+30-34,0,Entre 10 y 13,M,Sobrevivientes
+35-39,1,Entre 10 y 13,M,Sobrevivientes
+40-44,4,Entre 10 y 13,M,Sobrevivientes
+45-49,2,Entre 10 y 13,M,Sobrevivientes
+50-54,0,Entre 10 y 13,M,Sobrevivientes
+55-59,1,Entre 10 y 13,M,Sobrevivientes
+60-64,6,Entre 10 y 13,M,Sobrevivientes
+65-69,9,Entre 10 y 13,M,Sobrevivientes
+70-74,12,Entre 10 y 13,M,Sobrevivientes
+75-79,1,Entre 10 y 13,M,Sobrevivientes
+80-84,4,Entre 10 y 13,M,Sobrevivientes
+85-89,1,Entre 10 y 13,M,Sobrevivientes
+90-94,1,Entre 10 y 13,M,Sobrevivientes
+95-100,0,Entre 10 y 13,M,Sobrevivientes
+100-104,0,Entre 10 y 13,M,Sobrevivientes
+0-19,0,Entre 10 y 13,F,Sobrevivientes
+20-24,4,Entre 10 y 13,F,Sobrevivientes
+25-29,0,Entre 10 y 13,F,Sobrevivientes
+30-34,3,Entre 10 y 13,F,Sobrevivientes
+35-39,1,Entre 10 y 13,F,Sobrevivientes
+40-44,4,Entre 10 y 13,F,Sobrevivientes
+45-49,15,Entre 10 y 13,F,Sobrevivientes
+50-54,21,Entre 10 y 13,F,Sobrevivientes
+55-59,59,Entre 10 y 13,F,Sobrevivientes
+60-64,100,Entre 10 y 13,F,Sobrevivientes
+65-69,124,Entre 10 y 13,F,Sobrevivientes
+70-74,163,Entre 10 y 13,F,Sobrevivientes
+75-79,145,Entre 10 y 13,F,Sobrevivientes
+80-84,87,Entre 10 y 13,F,Sobrevivientes
+85-89,24,Entre 10 y 13,F,Sobrevivientes
+90-94,12,Entre 10 y 13,F,Sobrevivientes
+95-100,0,Entre 10 y 13,F,Sobrevivientes
+100-104,1,Entre 10 y 13,F,Sobrevivientes
+0-19,4,Entre 13 y 16,M,Sobrevivientes
+20-24,0,Entre 13 y 16,M,Sobrevivientes
+25-29,0,Entre 13 y 16,M,Sobrevivientes
+30-34,0,Entre 13 y 16,M,Sobrevivientes
+35-39,0,Entre 13 y 16,M,Sobrevivientes
+40-44,0,Entre 13 y 16,M,Sobrevivientes
+45-49,0,Entre 13 y 16,M,Sobrevivientes
+50-54,2,Entre 13 y 16,M,Sobrevivientes
+55-59,1,Entre 13 y 16,M,Sobrevivientes
+60-64,3,Entre 13 y 16,M,Sobrevivientes
+65-69,2,Entre 13 y 16,M,Sobrevivientes
+70-74,0,Entre 13 y 16,M,Sobrevivientes
+75-79,1,Entre 13 y 16,M,Sobrevivientes
+80-84,1,Entre 13 y 16,M,Sobrevivientes
+85-89,0,Entre 13 y 16,M,Sobrevivientes
+90-94,0,Entre 13 y 16,M,Sobrevivientes
+95-100,0,Entre 13 y 16,M,Sobrevivientes
+100-104,0,Entre 13 y 16,M,Sobrevivientes
+0-19,0,Entre 13 y 16,F,Sobrevivientes
+20-24,1,Entre 13 y 16,F,Sobrevivientes
+25-29,0,Entre 13 y 16,F,Sobrevivientes
+30-34,2,Entre 13 y 16,F,Sobrevivientes
+35-39,1,Entre 13 y 16,F,Sobrevivientes
+40-44,3,Entre 13 y 16,F,Sobrevivientes
+45-49,2,Entre 13 y 16,F,Sobrevivientes
+50-54,6,Entre 13 y 16,F,Sobrevivientes
+55-59,20,Entre 13 y 16,F,Sobrevivientes
+60-64,35,Entre 13 y 16,F,Sobrevivientes
+65-69,48,Entre 13 y 16,F,Sobrevivientes
+70-74,56,Entre 13 y 16,F,Sobrevivientes
+75-79,36,Entre 13 y 16,F,Sobrevivientes
+80-84,25,Entre 13 y 16,F,Sobrevivientes
+85-89,3,Entre 13 y 16,F,Sobrevivientes
+90-94,1,Entre 13 y 16,F,Sobrevivientes
+95-100,1,Entre 13 y 16,F,Sobrevivientes
+100-104,0,Entre 13 y 16,F,Sobrevivientes
+0-19,0,Mayor a 16,M,Sobrevivientes
+20-24,0,Mayor a 16,M,Sobrevivientes
+25-29,0,Mayor a 16,M,Sobrevivientes
+30-34,0,Mayor a 16,M,Sobrevivientes
+35-39,0,Mayor a 16,M,Sobrevivientes
+40-44,0,Mayor a 16,M,Sobrevivientes
+45-49,1,Mayor a 16,M,Sobrevivientes
+50-54,0,Mayor a 16,M,Sobrevivientes
+55-59,1,Mayor a 16,M,Sobrevivientes
+60-64,0,Mayor a 16,M,Sobrevivientes
+65-69,2,Mayor a 16,M,Sobrevivientes
+70-74,4,Mayor a 16,M,Sobrevivientes
+75-79,1,Mayor a 16,M,Sobrevivientes
+80-84,1,Mayor a 16,M,Sobrevivientes
+85-89,2,Mayor a 16,M,Sobrevivientes
+90-94,0,Mayor a 16,M,Sobrevivientes
+95-100,0,Mayor a 16,M,Sobrevivientes
+100-104,0,Mayor a 16,M,Sobrevivientes
+0-19,0,Mayor a 16,F,Sobrevivientes
+20-24,0,Mayor a 16,F,Sobrevivientes
+25-29,0,Mayor a 16,F,Sobrevivientes
+30-34,0,Mayor a 16,F,Sobrevivientes
+35-39,0,Mayor a 16,F,Sobrevivientes
+40-44,0,Mayor a 16,F,Sobrevivientes
+45-49,2,Mayor a 16,F,Sobrevivientes
+50-54,9,Mayor a 16,F,Sobrevivientes
+55-59,9,Mayor a 16,F,Sobrevivientes
+60-64,15,Mayor a 16,F,Sobrevivientes
+65-69,15,Mayor a 16,F,Sobrevivientes
+70-74,13,Mayor a 16,F,Sobrevivientes
+75-79,7,Mayor a 16,F,Sobrevivientes
+80-84,6,Mayor a 16,F,Sobrevivientes
+85-89,3,Mayor a 16,F,Sobrevivientes
+90-94,1,Mayor a 16,F,Sobrevivientes
+95-100,1,Mayor a 16,F,Sobrevivientes
+100-104,1,Mayor a 16,F,Sobrevivientes
